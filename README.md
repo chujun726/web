@@ -11,6 +11,7 @@
 ## 作業連結區
 *  [HW1 - 靜態網頁 Web1](https://chujun726.github.io/)
 *  [HW2 - CRUD教學影片](https://youtu.be/cQrZuCQR0II)
+*  [HW3 - Javascript圖片搜尋器](https://chujun726.github.io/web/HW3/image-search-app/image_search.html)
 
 ## 專題連結區
 
