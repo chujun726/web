@@ -10,6 +10,7 @@
 
 ## 作業連結區
 *  [HW1 - 靜態網頁 Web1](https://chujun726.github.io/)
+*  [HW2 - CRUD教學影片](https://youtu.be/cQrZuCQR0II)
 
 ## 專題連結區
 
