@@ -12,6 +12,7 @@
 *  [HW1 - 靜態網頁 Web1](https://chujun726.github.io/)
 *  [HW2 - CRUD教學影片](https://youtu.be/cQrZuCQR0II)
 *  [HW3 - Javascript圖片搜尋器](https://youtu.be/_W5lDs05o-8)
+*  [HW4 - Azure雲端網頁部署](https://youtu.be/3Cl3QBKwNaU)
 
 ## 專題連結區
 
